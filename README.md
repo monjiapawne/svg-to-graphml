@@ -27,3 +27,7 @@ While yEd supports direct SVG imports, converting them into native GraphML provi
 go run ./cmd -path /test/1_go.svg -out ./out
 go run ./cmd -path /test -out ./out
 ```
+
+## WASM Demo
+
+`/web` contains the WASM demo hosted on Github Pages, for single or multiple file converions. It lacking the ability to retain the source folder structure that exists in the cli version.

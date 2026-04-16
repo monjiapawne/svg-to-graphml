@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Compile to WASM & deploy to GitHub Pages
 
 on:
   push:
