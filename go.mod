@@ -1,4 +1,5 @@
-module github.com/yed-palettes/svg-to-graphml
+module github.com/monjiapawne/svg-to-graphml
+
 
 go 1.26.1
 
